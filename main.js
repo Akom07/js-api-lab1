@@ -14,3 +14,11 @@ setInterval(()=>{
         coffee.src = data.file
     })
 },3000)
+
+// async function img (){
+//     
+// const image = await fetch(url)
+// const data = await image.json()
+// }
+
+// img()
